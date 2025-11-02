@@ -28,8 +28,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-2. Make sure your dataset is present at:  
-   `C:\Users\bhavya gupta\Downloads\archive (5)\Electric_Vehicle_Population_Data.csv`
+2. Make sure your dataset is present at the path you mentioned.
 
 3. Open the local URL shown in terminal (e.g., http://localhost:8501).
 
